@@ -1,0 +1,6 @@
+class Gorpipe < Formula
+    desc ""
+    homepage "https://github.com/gorpipe/gor"
+    url "https://sigmarkarl.github.io/gorpipe.gz"
+    sha256 "b283b634d4add35c8fdab8248bf6b73c3443faf63d13f0aead2ccd46a5e5f090"
+end
