@@ -1,4 +1,4 @@
-class Gorpipe < Formula
+class Gor < Formula
     desc ""
     homepage "https://github.com/gorpipe/gor"
     url "https://sigmarkarl.github.io/gorpipe.gz"
